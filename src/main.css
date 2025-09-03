@@ -161,6 +161,10 @@ body {
 }
 
 @media (min-width: 728px) {
+  body {
+    justify-content: center;
+  }
+
   .card {
     border-radius: 0.5rem;
     display: flex;

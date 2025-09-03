@@ -2,7 +2,7 @@
 
 ## GitHub Pages
 
-[Live Demo](https://antelopest.github.io/product-preview-card-component/)
+[Live Demo](https://antelopest.github.io/product-preview-card-component-main/)
 
 ## Idea
 
