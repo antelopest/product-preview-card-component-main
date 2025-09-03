@@ -1,0 +1,23 @@
+:root {
+  --green-500: hsl(158deg, 36%, 37%);
+  --green-700: hsl(158deg, 42%, 18%);
+  --black: hsl(212deg, 21%, 14%);
+  --grey: hsl(228deg, 12%, 48%);
+  --cream: hsl(30deg, 38%, 92%);
+  --white: hsl(0deg, 0%, 100%);
+
+  --font-size: 14px;
+
+  --font-family-montserrat: 'Montserrat';
+  --font-family-montserrat-bold: 700;
+  --font-family-montserrat-medium: 500;
+
+  --font-family-fraunces: 'Fraunces';
+  --font-family-fraunces-bold: 700;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
